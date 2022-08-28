@@ -1,15 +1,10 @@
-https://devmehedi101.github.io/devmehedi101/
-
 ### Hi there , My name is Mehedi hasan.
-#### **Web developer and Cyber Security Analyst**
-![**Web developer and Cyber Security Analyst**](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/292281823_1251864908917753_2020151634290624122_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFBc4vz7nNz_r1psRygbyWoh-EDMGIaIBOH4QMwYhogE0zHi35DSz2iBgolV5-nOVrF0rdM6zkO9GqIgVTEmUgL&_nc_ohc=5bMFjBbvdv4AX-4eqFC&tn=biIU439-lejUOmXc&_nc_ht=scontent.fdac31-1.fna&oh=00_AT98R3cQsOlmxX8t0tDiGxA6nsy7b75E0tE-uu_AzkqGuw&oe=6310D76D)
-
-I am a Web Developer and Cyber Security Analyst with wide variety of professional experiences. 
+#### **I am a Web Developer and Cyber Security Analyst with wide variety of professional experiences.** 
 
 Skills: python /  JS / HTML / CSS / php / jquery / bootstrap / uikit
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devmehedi101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devmehedi101/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/page/devmehedi101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/devmehedi101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/devmehedi101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devmehedi101.github.io/devmehedi101/)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devmehedi101&show_icons=true)  
 
-
-
-
+![Profile views](https://gpvc.arturio.dev/devmehedi101)  
