@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;This+is+SHAJ...;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 ---
-Software Engineer at [TallyKhata](https://www.tallykhata.com/) | Android-Flutter | Fintech-MFS | Entrepreneurial-Minded | YouTuber
+Web Developer | Cyber Security Analyst | YouTuber
   
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsONqe4261c6toTEh_wMgNA?style=social)](https://www.youtube.com/c/SHAJT3CH?sub_confirmation=1)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCsONqe4261c6toTEh_wMgNA?style=social)](https://www.youtube.com/c/SHAJT3CH?sub_confirmation=1)
-[![](https://komarev.com/ghpvc/?username=ShakilAhmedShaj)](https://github.com/ShakilAhmedShaj)
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://linkedin.com/in/shakilahmedshaj)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&labelColor=555555&logo=gmail&logoColor=f5f7fe)](mailto:shakilahmedshaj@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
-  <a href="https://stackoverflow.com/users/7728628/shakil-ahmed-shaj">
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsONqe4261c6toTEh_wMgNA?style=social)](https://www.youtube.com/@SecurityTalent/)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCsONqe4261c6toTEh_wMgNA?style=social)](https://www.youtube.com/@SecurityTalent/about)
+[![](https://komarev.com/ghpvc/?username=ShakilAhmedShaj)](https://github.com/devmehedi101)
+[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://linkedin.com/in/devmehedi101)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=007EC6&labelColor=555555&logo=gmail&logoColor=f5f7fe)](mailto:devmehedi101@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+  <a href="https://stackoverflow.com/users/19865785/devmehedi101">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7728628?color=orange&label=reputation&logo=stackoverflow">
   </a>
   
