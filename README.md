@@ -20,7 +20,7 @@ Web Developer | Cyber Security Analyst | YouTuber
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
 [![java](https://img.shields.io/static/v1?logo=java&label=&message=JAVA&color=36465D&logoColor=AAA&style=flat-square)](https://github.com/ShakilAhmedShaj?tab=repositories&language=java)
 [![kotlin](https://img.shields.io/static/v1?logo=kotlin&label=&message=kotlin&color=36465D&logoColor=AAA&style=flat-square)](https://github.com/ShakilAhmedShaj?tab=repositories&language=kotlin)
-[![dart](https://img.shields.io/static/v1?logo=dart&label=&message=dart&color=36465D&logoColor=AAA&style=flat-square)](https://github.com/ShakilAhmedShaj?tab=repositories&language=dart)
+[![dart](https://img.shields.io/static/v1?logo=dart&label=&message=dart&color=36465D&logoColor=AAA&style=flat-square)](#)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![android](https://img.shields.io/static/v1?logo=android&label=&message=android&color=36465D&logoColor=AAA&style=flat-square)
