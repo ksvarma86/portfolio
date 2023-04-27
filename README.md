@@ -36,7 +36,9 @@ Web Developer | Cyber Security Analyst | YouTuber
   
 <p align="center" >
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmehedi101&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,html,css,tsql,hack)](https://github.com/devmehedi101) <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=devmehedi101&theme=tokyonight&hide_border=true&background=1F222E" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmehedi101&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmehedi101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
 </p>
   
