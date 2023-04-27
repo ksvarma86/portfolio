@@ -16,17 +16,6 @@ Web Developer | Cyber Security Analyst | YouTuber
 </div>
 
 <div align="center">
-  
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-
-  
-  
-&nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![android](https://img.shields.io/static/v1?logo=android&label=&message=android&color=36465D&logoColor=AAA&style=flat-square)
-![flutter](https://img.shields.io/static/v1?logo=flutter&label=&message=flutter&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-  
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary> ✖️ Click to See More ✖️</summary>
