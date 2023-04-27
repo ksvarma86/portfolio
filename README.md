@@ -20,6 +20,8 @@ Web Developer | Cyber Security Analyst | YouTuber
 [![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)]
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)]
   
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://linkedin.com/in/devmehedi101)
+  
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![android](https://img.shields.io/static/v1?logo=android&label=&message=android&color=36465D&logoColor=AAA&style=flat-square)
