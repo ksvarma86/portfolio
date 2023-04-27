@@ -36,17 +36,12 @@ Web Developer | Cyber Security Analyst | YouTuber
   
 <p align="center" >
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmehedi101&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmehedi101&show_icons=true&theme=radical)   <br/> 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmehedi101&layout=compact)](https://github.com/devmehedi101)
   
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
   
   
 
